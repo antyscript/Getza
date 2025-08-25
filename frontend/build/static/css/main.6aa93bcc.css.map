@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.6aa93bcc.css","mappings":"AAAA,EACC,QAAS,CACT,SACD,CACA,KACC,gBACD","sources":["App.css"],"sourcesContent":["* {\n\tmargin: 0;\n\tpadding: 0;\n}\nmain {\n\tmin-height: 100vh;\n}\n"],"names":[],"sourceRoot":""}
